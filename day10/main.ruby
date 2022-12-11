@@ -80,7 +80,7 @@ File.readlines('input.txt').each do |line|
     cycle(line)
 end
 
-print("part1 ans: ",$signalsum,"\n")
+print("Signal Sum ans: ",$signalsum,"\n")
 PrintCRT()
 
 print("\n")
